@@ -1,0 +1,7 @@
+Rule,Count
+Total Records,541909
+Missing CustomerID (replaced),135080
+Return Transactions,10624
+Cancelled Invoices,9288
+Invalid/Negative Prices Removed,2521
+Duplicate Records Removed,5265
